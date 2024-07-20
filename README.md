@@ -1,3 +1,4 @@
+<img src=
 - 👋 Hola soy la Mtra. Lureyma Veldad Vázquez García 
 - 👀 Actualmente estoy interesada en Tecnología Educativa e Inteligencia Artificial 
 - 🌱 Actualmente estoy aprendiendo Inteligencia Artificial y Tecnología Educativa
